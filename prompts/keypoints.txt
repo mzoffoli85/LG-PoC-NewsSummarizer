@@ -1,0 +1,9 @@
+A partir del siguiente texto y resumen de una noticia, extrae entre 3 y 5 puntos clave.
+Cada punto debe ser una oración corta y directa.
+Responde con una lista, un punto por línea, comenzando con guion (-).
+
+Noticia:
+{cuerpo}
+
+Resumen:
+{resumen}

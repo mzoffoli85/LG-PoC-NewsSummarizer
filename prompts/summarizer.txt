@@ -1,0 +1,5 @@
+Resume la siguiente noticia en exactamente 3 oraciones claras y objetivas.
+No agregues opinión ni información externa. Solo usa el texto provisto.
+
+Noticia:
+{cuerpo}

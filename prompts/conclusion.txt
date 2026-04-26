@@ -1,0 +1,10 @@
+A partir del siguiente titular, resumen y puntos clave de una noticia, escribe una conclusión editorial de un párrafo.
+La conclusión debe ofrecer una perspectiva analítica sobre el impacto o relevancia de la noticia.
+
+Titular: {titular}
+
+Resumen:
+{resumen}
+
+Puntos Clave:
+{keypoints}
